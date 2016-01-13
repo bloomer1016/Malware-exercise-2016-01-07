@@ -1,0 +1,474 @@
+[**] [129:15:1] Reset outside window [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+01/07-23:06:58.177049 192.168.122.130:49161 -> 204.79.197.200:443
+TCP TTL:128 TOS:0x0 ID:1466 IpLen:20 DgmLen:40 DF
+***A*R** Seq: 0x6E33F2D1  Ack: 0xD1BA3C1B  Win: 0x0  TcpLen: 20
+
+[**] [129:15:1] Reset outside window [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+01/07-23:07:40.663170 192.168.122.52:49160 -> 119.160.254.215:443
+TCP TTL:128 TOS:0x0 ID:197 IpLen:20 DgmLen:40 DF
+***A*R** Seq: 0x187EBBA7  Ack: 0x4DB304DF  Win: 0x0  TcpLen: 20
+
+[**] [129:15:1] Reset outside window [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+01/07-23:07:45.670658 192.168.122.52:49161 -> 119.160.254.215:443
+TCP TTL:128 TOS:0x0 ID:201 IpLen:20 DgmLen:40 DF
+***A*R** Seq: 0xE9FF4C72  Ack: 0x18DEE412  Win: 0x0  TcpLen: 20
+
+[**] [129:15:1] Reset outside window [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+01/07-23:07:45.671080 192.168.122.52:49162 -> 119.160.254.215:443
+TCP TTL:128 TOS:0x0 ID:202 IpLen:20 DgmLen:40 DF
+***A*R** Seq: 0xE3541FAE  Ack: 0xBF94A938  Win: 0x0  TcpLen: 20
+
+[**] [129:15:1] Reset outside window [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+01/07-23:07:58.625096 204.79.197.200:443 -> 192.168.122.130:49167
+TCP TTL:121 TOS:0x0 ID:30881 IpLen:20 DgmLen:40 DF
+***A*R** Seq: 0xD3D11E42  Ack: 0xFBC1DEDE  Win: 0x0  TcpLen: 20
+
+[**] [129:15:1] Reset outside window [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+01/07-23:07:59.478427 204.79.197.200:443 -> 192.168.122.130:49162
+TCP TTL:122 TOS:0x0 ID:24399 IpLen:20 DgmLen:40 DF
+***A*R** Seq: 0x43FD5CD4  Ack: 0xBE8D858D  Win: 0x0  TcpLen: 20
+
+[**] [129:15:1] Reset outside window [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+01/07-23:07:59.978988 204.79.197.200:443 -> 192.168.122.130:49166
+TCP TTL:122 TOS:0x0 ID:5224 IpLen:20 DgmLen:40 DF
+***A*R** Seq: 0x70CDE61D  Ack: 0xBE525249  Win: 0x0  TcpLen: 20
+
+[**] [129:15:1] Reset outside window [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+01/07-23:08:04.879123 204.79.197.200:443 -> 192.168.122.130:49170
+TCP TTL:122 TOS:0x0 ID:17684 IpLen:20 DgmLen:40 DF
+***A*R** Seq: 0xC35A0B20  Ack: 0x1E0F75B9  Win: 0x0  TcpLen: 20
+
+[**] [129:15:1] Reset outside window [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+01/07-23:08:10.899041 204.79.197.200:443 -> 192.168.122.130:49169
+TCP TTL:122 TOS:0x0 ID:20404 IpLen:20 DgmLen:40 DF
+***A*R** Seq: 0x2E3F1253  Ack: 0x8C289808  Win: 0x0  TcpLen: 20
+
+[**] [129:15:1] Reset outside window [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+01/07-23:08:45.619163 192.168.122.52:49163 -> 119.160.243.163:443
+TCP TTL:128 TOS:0x0 ID:269 IpLen:20 DgmLen:40 DF
+***A*R** Seq: 0xEFE62EB5  Ack: 0x79391C57  Win: 0x0  TcpLen: 20
+
+[**] [129:15:1] Reset outside window [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+01/07-23:08:46.207559 192.168.122.130:49192 -> 119.160.254.215:443
+TCP TTL:128 TOS:0x0 ID:2522 IpLen:20 DgmLen:40 DF
+***A*R** Seq: 0x9909CE2E  Ack: 0x78771FC7  Win: 0x0  TcpLen: 20
+
+[**] [129:15:1] Reset outside window [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+01/07-23:08:46.861638 192.168.122.130:49172 -> 119.160.254.215:443
+TCP TTL:128 TOS:0x0 ID:2527 IpLen:20 DgmLen:40 DF
+***A*R** Seq: 0x4F707C26  Ack: 0x6CFAA64B  Win: 0x0  TcpLen: 20
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+01/07-23:08:52.331528 119.160.243.163 -> 192.168.122.52
+PROTO:254 TTL:128 TOS:0x0 ID:298 IpLen:20 DgmLen:20 DF
+
+[**] [1:32481:1] POLICY-OTHER Remote non-JavaScript file found in script tag src attribute [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+01/07-23:08:59.416063 103.2.116.83:80 -> 192.168.122.52:49178
+TCP TTL:128 TOS:0x0 ID:385 IpLen:20 DgmLen:13316 DF
+***A**** Seq: 0x53EB4C05  Ack: 0x7543C555  Win: 0xFC80  TcpLen: 20
+[Xref => http://technet.microsoft.com/en-us/security/bulletin/MS14-065][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2014-6345]
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+01/07-23:09:01.064178 192.168.122.52 -> 119.160.254.197
+PROTO:254 TTL:50 TOS:0x0 ID:54776 IpLen:20 DgmLen:84 DF
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+01/07-23:09:07.189219 119.160.254.197 -> 192.168.122.52
+PROTO:254 TTL:128 TOS:0x0 ID:511 IpLen:20 DgmLen:84 DF
+
+[**] [1:23621:7] INDICATOR-OBFUSCATION known packer routine with secondary obfuscation [**]
+[Classification: Misc activity] [Priority: 3] 
+01/07-23:09:36.005353 67.225.139.108:80 -> 192.168.122.52:49210
+TCP TTL:53 TOS:0x0 ID:53086 IpLen:20 DgmLen:1407 DF
+***A**** Seq: 0x9E76360  Ack: 0xFC92145B  Win: 0x7B  TcpLen: 20
+[Xref => http://dean.edwards.name/packer/]
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+01/07-23:09:51.522609 67.225.139.108 -> 192.168.122.52
+PROTO:254 TTL:128 TOS:0x0 ID:952 IpLen:20 DgmLen:20 DF
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+01/07-23:09:51.967189 67.225.139.108 -> 192.168.122.52
+PROTO:254 TTL:128 TOS:0x0 ID:983 IpLen:20 DgmLen:20 DF
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+01/07-23:09:52.404510 67.225.139.108 -> 192.168.122.52
+PROTO:254 TTL:128 TOS:0x0 ID:1014 IpLen:20 DgmLen:20 DF
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+01/07-23:09:52.843227 67.225.139.108 -> 192.168.122.52
+PROTO:254 TTL:128 TOS:0x0 ID:1036 IpLen:20 DgmLen:20 DF
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+01/07-23:09:54.155534 67.225.139.108 -> 192.168.122.52
+PROTO:254 TTL:128 TOS:0x0 ID:1108 IpLen:20 DgmLen:20 DF
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+01/07-23:09:57.333072 67.225.139.108 -> 192.168.122.52
+PROTO:254 TTL:128 TOS:0x0 ID:1244 IpLen:20 DgmLen:20 DF
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+01/07-23:10:01.882065 67.225.139.108 -> 192.168.122.52
+PROTO:254 TTL:128 TOS:0x0 ID:1409 IpLen:20 DgmLen:20 DF
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+01/07-23:10:02.498965 67.225.139.108 -> 192.168.122.52
+PROTO:254 TTL:128 TOS:0x0 ID:1430 IpLen:20 DgmLen:84 DF
+
+[**] [129:15:1] Reset outside window [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+01/07-23:10:03.056273 192.168.122.132:49177 -> 103.2.116.83:443
+TCP TTL:128 TOS:0x0 ID:881 IpLen:20 DgmLen:40 DF
+***A*R** Seq: 0xDB8136CE  Ack: 0x7FFEFB4B  Win: 0x0  TcpLen: 20
+
+[**] [129:15:1] Reset outside window [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+01/07-23:10:03.056660 192.168.122.132:49179 -> 103.2.116.83:443
+TCP TTL:128 TOS:0x0 ID:882 IpLen:20 DgmLen:40 DF
+***A*R** Seq: 0x7F3C327B  Ack: 0xADDD76F  Win: 0x0  TcpLen: 20
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+01/07-23:10:13.091779 92.51.131.150 -> 192.168.122.132
+PROTO:254 TTL:128 TOS:0x0 ID:963 IpLen:20 DgmLen:20 DF
+
+[**] [1:23179:4] INDICATOR-COMPROMISE script before DOCTYPE possible malicious redirect attempt [**]
+[Classification: Web Application Attack] [Priority: 1] 
+01/07-23:10:13.091779 92.51.131.150:80 -> 192.168.122.132:49182
+TCP TTL:128 TOS:0x0 ID:963 IpLen:20 DgmLen:16444 DF
+***A**** Seq: 0xC29D5B4B  Ack: 0xD54A486D  Win: 0x0  TcpLen: 20
+
+[**] [129:15:1] Reset outside window [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+01/07-23:10:17.298829 89.38.144.75:80 -> 192.168.122.132:49195
+TCP TTL:55 TOS:0x0 ID:62030 IpLen:20 DgmLen:40 DF
+*****R** Seq: 0x7EBB8F17  Ack: 0x0  Win: 0x0  TcpLen: 20
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+01/07-23:10:18.875477 89.38.144.75 -> 192.168.122.132
+PROTO:254 TTL:128 TOS:0x0 ID:1389 IpLen:20 DgmLen:20 DF
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+01/07-23:10:18.517346 92.51.131.150 -> 192.168.122.132
+PROTO:254 TTL:128 TOS:0x0 ID:1403 IpLen:20 DgmLen:20 DF
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+01/07-23:10:19.383344 92.51.131.150 -> 192.168.122.132
+PROTO:254 TTL:128 TOS:0x0 ID:1444 IpLen:20 DgmLen:20 DF
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+01/07-23:10:19.848943 92.51.131.150 -> 192.168.122.132
+PROTO:254 TTL:128 TOS:0x0 ID:1522 IpLen:20 DgmLen:20 DF
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+01/07-23:10:19.599983 92.51.131.150 -> 192.168.122.132
+PROTO:254 TTL:128 TOS:0x0 ID:1573 IpLen:20 DgmLen:20 DF
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+01/07-23:10:24.389671 192.168.122.132:49205 -> 74.125.204.155:80
+TCP TTL:46 TOS:0x0 ID:23079 IpLen:20 DgmLen:1276
+***AP*** Seq: 0xFAF8FA3B  Ack: 0xA65DD019  Win: 0xB580  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+01/07-23:10:25.923077 92.51.131.150 -> 192.168.122.132
+PROTO:254 TTL:128 TOS:0x0 ID:1973 IpLen:20 DgmLen:20 DF
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+01/07-23:10:28.547061 92.51.131.150 -> 192.168.122.132
+PROTO:254 TTL:128 TOS:0x0 ID:2178 IpLen:20 DgmLen:20 DF
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+01/07-23:10:29.416406 89.38.144.75 -> 192.168.122.132
+PROTO:254 TTL:128 TOS:0x0 ID:2228 IpLen:20 DgmLen:20 DF
+
+[**] [129:15:1] Reset outside window [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+01/07-23:10:42.274157 192.168.122.130:49188 -> 119.160.254.215:443
+TCP TTL:128 TOS:0x0 ID:2663 IpLen:20 DgmLen:40 DF
+***A*R** Seq: 0x38227177  Ack: 0xA72F35A5  Win: 0x0  TcpLen: 20
+
+[**] [129:15:1] Reset outside window [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+01/07-23:10:42.274305 192.168.122.130:49186 -> 119.160.254.215:443
+TCP TTL:128 TOS:0x0 ID:2664 IpLen:20 DgmLen:40 DF
+***A*R** Seq: 0xDD747FA  Ack: 0x2F6CAD79  Win: 0x0  TcpLen: 20
+
+[**] [129:15:1] Reset outside window [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+01/07-23:10:42.274454 192.168.122.130:49173 -> 119.160.254.215:443
+TCP TTL:128 TOS:0x0 ID:2665 IpLen:20 DgmLen:40 DF
+***A*R** Seq: 0xB598BEA6  Ack: 0xCE7EE7C7  Win: 0x0  TcpLen: 20
+
+[**] [129:15:1] Reset outside window [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+01/07-23:10:42.274598 192.168.122.130:49187 -> 119.160.254.215:443
+TCP TTL:128 TOS:0x0 ID:2666 IpLen:20 DgmLen:40 DF
+***A*R** Seq: 0x82C5C2D  Ack: 0xE8CBAD93  Win: 0x0  TcpLen: 20
+
+[**] [1:34318:4] MALWARE-CNC Win.Trojan.CryptoWall variant outbound connection [**]
+[Classification: A Network Trojan was detected] [Priority: 1] 
+01/07-23:10:47.545424 192.168.122.132:49218 -> 188.138.101.154:80
+TCP TTL:44 TOS:0x28 ID:19969 IpLen:20 DgmLen:536 DF
+***A**** Seq: 0xAEEA78BE  Ack: 0xCA958CD2  Win: 0x4180  TcpLen: 20
+[Xref => http://www.virustotal.com/en/file/d14f1d1e07bd116ed0faf5896438177f36a05adacf5af4f32910e313e9c1fd93/analysis/]
+
+[**] [1:34318:4] MALWARE-CNC Win.Trojan.CryptoWall variant outbound connection [**]
+[Classification: A Network Trojan was detected] [Priority: 1] 
+01/07-23:10:51.876147 192.168.122.132:49219 -> 188.138.101.154:80
+TCP TTL:45 TOS:0x28 ID:44361 IpLen:20 DgmLen:514 DF
+***A**** Seq: 0x806035EC  Ack: 0x54A17F85  Win: 0x3D80  TcpLen: 20
+[Xref => http://www.virustotal.com/en/file/d14f1d1e07bd116ed0faf5896438177f36a05adacf5af4f32910e313e9c1fd93/analysis/]
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+01/07-23:11:00.961973 188.138.101.154 -> 192.168.122.132
+PROTO:254 TTL:128 TOS:0x0 ID:2804 IpLen:20 DgmLen:20 DF
+
+[**] [1:34318:4] MALWARE-CNC Win.Trojan.CryptoWall variant outbound connection [**]
+[Classification: A Network Trojan was detected] [Priority: 1] 
+01/07-23:11:11.746204 192.168.122.132:49220 -> 188.138.101.154:80
+TCP TTL:44 TOS:0x28 ID:47564 IpLen:20 DgmLen:530 DF
+***A**** Seq: 0xD8F77F37  Ack: 0xAB6F99A0  Win: 0x3D80  TcpLen: 20
+[Xref => http://www.virustotal.com/en/file/d14f1d1e07bd116ed0faf5896438177f36a05adacf5af4f32910e313e9c1fd93/analysis/]
+
+[**] [1:15306:22] FILE-EXECUTABLE Portable Executable binary file magic detected [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+01/07-23:11:58.680972 216.158.85.7:80 -> 192.168.122.130:49220
+TCP TTL:120 TOS:0x0 ID:24332 IpLen:20 DgmLen:1407 DF
+***A**** Seq: 0x275AB0D3  Ack: 0x30409808  Win: 0x1FE  TcpLen: 20
+
+[**] [1:15306:22] FILE-EXECUTABLE Portable Executable binary file magic detected [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+01/07-23:11:58.680972 216.158.85.7:80 -> 192.168.122.130:49220
+TCP TTL:120 TOS:0x0 ID:24332 IpLen:20 DgmLen:1407 DF
+***A**** Seq: 0x275AB0D3  Ack: 0x30409808  Win: 0x1FE  TcpLen: 20
+
+[**] [1:25061:7] FILE-EXECUTABLE Microsoft Software Installer MSI binary file magic detected [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+01/07-23:11:58.680972 216.158.85.7:80 -> 192.168.122.130:49220
+TCP TTL:128 TOS:0x0 ID:2740 IpLen:20 DgmLen:16444 DF
+***A**** Seq: 0x275AB0D3  Ack: 0x30409808  Win: 0x0  TcpLen: 20
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+01/07-23:12:01.391269 216.158.85.7 -> 192.168.122.130
+PROTO:254 TTL:128 TOS:0x0 ID:2757 IpLen:20 DgmLen:84 DF
+
+[**] [1:15306:22] FILE-EXECUTABLE Portable Executable binary file magic detected [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+01/07-23:12:04.612428 174.36.186.235:80 -> 192.168.122.130:49223
+TCP TTL:116 TOS:0x0 ID:19247 IpLen:20 DgmLen:1407 DF
+***A**** Seq: 0xD7C6152D  Ack: 0x9957AF5C  Win: 0xFE4F  TcpLen: 20
+
+[**] [1:15306:22] FILE-EXECUTABLE Portable Executable binary file magic detected [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+01/07-23:12:04.612428 174.36.186.235:80 -> 192.168.122.130:49223
+TCP TTL:116 TOS:0x0 ID:19247 IpLen:20 DgmLen:1407 DF
+***A**** Seq: 0xD7C6152D  Ack: 0x9957AF5C  Win: 0xFE4F  TcpLen: 20
+
+[**] [1:25061:7] FILE-EXECUTABLE Microsoft Software Installer MSI binary file magic detected [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+01/07-23:12:04.612428 174.36.186.235:80 -> 192.168.122.130:49223
+TCP TTL:128 TOS:0x0 ID:2808 IpLen:20 DgmLen:16444 DF
+***A**** Seq: 0xD7C6152D  Ack: 0x9957AF5C  Win: 0x0  TcpLen: 20
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+01/07-23:12:09.973674 174.36.186.235 -> 192.168.122.130
+PROTO:254 TTL:128 TOS:0x0 ID:2830 IpLen:20 DgmLen:84 DF
+
+[**] [1:34318:4] MALWARE-CNC Win.Trojan.CryptoWall variant outbound connection [**]
+[Classification: A Network Trojan was detected] [Priority: 1] 
+01/07-23:12:14.456674 192.168.122.132:49221 -> 50.22.11.55:80
+TCP TTL:53 TOS:0x0 ID:11006 IpLen:20 DgmLen:537 DF
+***A**** Seq: 0x24766841  Ack: 0x68545EA5  Win: 0x7680  TcpLen: 20
+[Xref => http://www.virustotal.com/en/file/d14f1d1e07bd116ed0faf5896438177f36a05adacf5af4f32910e313e9c1fd93/analysis/]
+
+[**] [1:15306:22] FILE-EXECUTABLE Portable Executable binary file magic detected [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+01/07-23:12:22.606965 184.168.173.1:80 -> 192.168.122.130:49224
+TCP TTL:52 TOS:0x0 ID:32864 IpLen:20 DgmLen:1407 DF
+***A**** Seq: 0x85B825AB  Ack: 0x2D67669A  Win: 0x1F  TcpLen: 20
+
+[**] [1:15306:22] FILE-EXECUTABLE Portable Executable binary file magic detected [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+01/07-23:12:22.606965 184.168.173.1:80 -> 192.168.122.130:49224
+TCP TTL:52 TOS:0x0 ID:32864 IpLen:20 DgmLen:1407 DF
+***A**** Seq: 0x85B825AB  Ack: 0x2D67669A  Win: 0x1F  TcpLen: 20
+
+[**] [1:25061:7] FILE-EXECUTABLE Microsoft Software Installer MSI binary file magic detected [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+01/07-23:12:22.606965 184.168.173.1:80 -> 192.168.122.130:49224
+TCP TTL:128 TOS:0x0 ID:2887 IpLen:20 DgmLen:16444 DF
+***A**** Seq: 0x85B825AB  Ack: 0x2D67669A  Win: 0x0  TcpLen: 20
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+01/07-23:12:24.806822 184.168.173.1 -> 192.168.122.130
+PROTO:254 TTL:128 TOS:0x0 ID:2903 IpLen:20 DgmLen:84 DF
+
+[**] [1:15306:22] FILE-EXECUTABLE Portable Executable binary file magic detected [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+01/07-23:12:31.277950 216.158.85.7:80 -> 192.168.122.130:49220
+TCP TTL:120 TOS:0x0 ID:24607 IpLen:20 DgmLen:1407 DF
+***A**** Seq: 0x275EABC2  Ack: 0x304099B6  Win: 0x1FD  TcpLen: 20
+
+[**] [1:15306:22] FILE-EXECUTABLE Portable Executable binary file magic detected [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+01/07-23:12:31.277950 216.158.85.7:80 -> 192.168.122.130:49220
+TCP TTL:120 TOS:0x0 ID:24607 IpLen:20 DgmLen:1407 DF
+***A**** Seq: 0x275EABC2  Ack: 0x304099B6  Win: 0x1FD  TcpLen: 20
+
+[**] [1:15306:22] FILE-EXECUTABLE Portable Executable binary file magic detected [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+01/07-23:12:35.088913 174.36.186.235:80 -> 192.168.122.130:49225
+TCP TTL:116 TOS:0x0 ID:22278 IpLen:20 DgmLen:1407 DF
+***A**** Seq: 0xB6D360E8  Ack: 0x3B6DC4C1  Win: 0xFE4F  TcpLen: 20
+
+[**] [1:15306:22] FILE-EXECUTABLE Portable Executable binary file magic detected [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+01/07-23:12:35.088913 174.36.186.235:80 -> 192.168.122.130:49225
+TCP TTL:116 TOS:0x0 ID:22278 IpLen:20 DgmLen:1407 DF
+***A**** Seq: 0xB6D360E8  Ack: 0x3B6DC4C1  Win: 0xFE4F  TcpLen: 20
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+01/07-23:12:39.172789 174.36.186.235 -> 192.168.122.130
+PROTO:254 TTL:128 TOS:0x0 ID:3033 IpLen:20 DgmLen:84 DF
+
+[**] [1:15306:22] FILE-EXECUTABLE Portable Executable binary file magic detected [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+01/07-23:12:48.574123 184.168.173.1:80 -> 192.168.122.130:49226
+TCP TTL:52 TOS:0x0 ID:45163 IpLen:20 DgmLen:1407 DF
+***A**** Seq: 0x1240BB08  Ack: 0xC416110B  Win: 0x1F  TcpLen: 20
+
+[**] [1:15306:22] FILE-EXECUTABLE Portable Executable binary file magic detected [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+01/07-23:12:48.574123 184.168.173.1:80 -> 192.168.122.130:49226
+TCP TTL:52 TOS:0x0 ID:45163 IpLen:20 DgmLen:1407 DF
+***A**** Seq: 0x1240BB08  Ack: 0xC416110B  Win: 0x1F  TcpLen: 20
+
+[**] [1:648:18] INDICATOR-SHELLCODE x86 NOOP [**]
+[Classification: Executable code was detected] [Priority: 1] 
+01/07-23:12:49.222257 184.168.173.1:80 -> 192.168.122.130:49226
+TCP TTL:52 TOS:0x0 ID:45167 IpLen:20 DgmLen:1407 DF
+***A**** Seq: 0x1240D064  Ack: 0xC416110B  Win: 0x1F  TcpLen: 20
+
+[**] [1:23256:9] FILE-EXECUTABLE Armadillo v1.71 packer file magic detected [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+01/07-23:12:50.027232 184.168.173.1:80 -> 192.168.122.130:49226
+TCP TTL:52 TOS:0x0 ID:45188 IpLen:20 DgmLen:1407 DF
+***A**** Seq: 0x12414087  Ack: 0xC416110B  Win: 0x1F  TcpLen: 20
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+01/07-23:12:53.729881 184.168.173.1 -> 192.168.122.130
+PROTO:254 TTL:128 TOS:0x0 ID:3144 IpLen:20 DgmLen:84 DF
+
+[**] [1:254:15] PROTOCOL-DNS SPOOF query response with TTL of 1 min. and no authority [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+01/07-23:12:59.999139 8.8.4.4:53 -> 192.168.122.132:60739
+UDP TTL:56 TOS:0x0 ID:23850 IpLen:20 DgmLen:78
+Len: 50
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+01/07-23:15:26.991324 119.160.254.197 -> 192.168.122.52
+PROTO:254 TTL:128 TOS:0x0 ID:1929 IpLen:20 DgmLen:20 DF
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+01/07-23:15:41.610439 54.66.231.10 -> 192.168.122.52
+PROTO:254 TTL:128 TOS:0x0 ID:2138 IpLen:20 DgmLen:20 DF
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+01/07-23:15:42.222451 103.2.116.79 -> 192.168.122.52
+PROTO:254 TTL:128 TOS:0x0 ID:2162 IpLen:20 DgmLen:20 DF
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+01/07-23:15:44.190215 103.2.116.79 -> 192.168.122.52
+PROTO:254 TTL:128 TOS:0x0 ID:2207 IpLen:20 DgmLen:20 DF
+
+[**] [139:1:1] (spp_sdf) SDF Combination Alert [**]
+[Classification: Senstive Data] [Priority: 2] 
+01/07-23:15:42.258593 103.2.116.79 -> 192.168.122.52
+PROTO:254 TTL:128 TOS:0x0 ID:2211 IpLen:20 DgmLen:20 DF
+
+[**] [1:3679:16] INDICATOR-OBFUSCATION Multiple Products IFRAME src javascript code execution [**]
+[Classification: Attempted User Privilege Gain] [Priority: 1] 
+01/07-23:15:45.081943 54.66.231.10:80 -> 192.168.122.52:49311
+TCP TTL:128 TOS:0x0 ID:2221 IpLen:20 DgmLen:16444 DF
+***A**** Seq: 0xF67B8143  Ack: 0xECD97304  Win: 0x50  TcpLen: 20
+[Xref => http://cgi.nessus.org/plugins/dump.php3?id=18243][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2008-2939][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2005-1476][Xref => http://www.securityfocus.com/bid/30560][Xref => http://www.securityfocus.com/bid/13544]
+
+[**] [1:32481:1] POLICY-OTHER Remote non-JavaScript file found in script tag src attribute [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+01/07-23:15:49.350409 173.223.175.15:80 -> 192.168.122.52:49326
+TCP TTL:128 TOS:0x0 ID:2252 IpLen:20 DgmLen:661 DF
+***A**** Seq: 0x2956AFC9  Ack: 0xC7D23919  Win: 0xFDE0  TcpLen: 20
+[Xref => http://technet.microsoft.com/en-us/security/bulletin/MS14-065][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2014-6345]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+01/07-23:15:50.023525 192.168.122.52:49321 -> 184.85.81.17:80
+TCP TTL:60 TOS:0x0 ID:51381 IpLen:20 DgmLen:1688 DF
+***A**** Seq: 0xE515DBAD  Ack: 0xB175EA76  Win: 0x89A0  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
+[**] [1:32481:1] POLICY-OTHER Remote non-JavaScript file found in script tag src attribute [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+01/07-23:15:50.500938 173.223.175.15:80 -> 192.168.122.52:49327
+TCP TTL:128 TOS:0x0 ID:2272 IpLen:20 DgmLen:659 DF
+***A**** Seq: 0xF8333116  Ack: 0x921481A2  Win: 0xFDE4  TcpLen: 20
+[Xref => http://technet.microsoft.com/en-us/security/bulletin/MS14-065][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2014-6345]
+
+[**] [1:32481:1] POLICY-OTHER Remote non-JavaScript file found in script tag src attribute [**]
+[Classification: Potential Corporate Privacy Violation] [Priority: 1] 
+01/07-23:15:56.185573 173.223.175.15:80 -> 192.168.122.52:49326
+TCP TTL:128 TOS:0x0 ID:2321 IpLen:20 DgmLen:665 DF
+***A**** Seq: 0x2956B236  Ack: 0xC7D23ABF  Win: 0xFB70  TcpLen: 20
+[Xref => http://technet.microsoft.com/en-us/security/bulletin/MS14-065][Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2014-6345]
+
+[**] [119:19:1] (http_inspect) LONG HEADER [**]
+[Classification: Potentially Bad Traffic] [Priority: 2] 
+01/07-23:15:57.201230 192.168.122.52:49320 -> 184.85.81.17:80
+TCP TTL:60 TOS:0x0 ID:33932 IpLen:20 DgmLen:1722 DF
+***A**** Seq: 0xF6C296AD  Ack: 0x99C3C4C1  Win: 0x8B80  TcpLen: 20
+[Xref => http://cve.mitre.org/cgi-bin/cvename.cgi?name=2009-4873]
+
